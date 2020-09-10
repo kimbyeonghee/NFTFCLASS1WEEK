@@ -1,0 +1,6 @@
+C:\Users\김병희\source\repos\201987076_1\201987076_1\bin\Debug\201987076_1.exe.config
+C:\Users\김병희\source\repos\201987076_1\201987076_1\bin\Debug\201987076_1.exe
+C:\Users\김병희\source\repos\201987076_1\201987076_1\bin\Debug\201987076_1.pdb
+C:\Users\김병희\source\repos\201987076_1\201987076_1\obj\Debug\201987076_1.csproj.CoreCompileInputs.cache
+C:\Users\김병희\source\repos\201987076_1\201987076_1\obj\Debug\201987076_1.exe
+C:\Users\김병희\source\repos\201987076_1\201987076_1\obj\Debug\201987076_1.pdb
